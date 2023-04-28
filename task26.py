@@ -10,3 +10,5 @@ def nums_degree(a, n):
       
     return a* nums_degree(a,n-1) 
 print(nums_degree(x,y))
+
+# работает
